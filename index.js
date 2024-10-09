@@ -1,2 +1,2 @@
-var sound = new Audio("./rickroll.mp3");
+var sound = new Audio('./rickroll.mp3');
 sound.play();
